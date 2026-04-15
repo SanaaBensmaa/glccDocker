@@ -1,5 +1,5 @@
 # 1. On utilise Node.js version 18
-FROM node:18
+FROM node:22
 
 # 2. On crée le dossier de l'app dans le conteneur
 WORKDIR /usr/src/app
